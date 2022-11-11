@@ -66,7 +66,7 @@ The RBF of hidden neuron as gaussian function
     * bias edge
     
 
-### Developed by:S.BARATH KUMAR J
+### Developed by:BARATH KUMAR J
 ### Registration no:212221230012
 ## PROGRAM:
 ```
